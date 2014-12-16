@@ -1,0 +1,24 @@
+<package >
+  <metadata>
+    <id>Colorspace</id>
+    <version>1.0.2</version>
+    <authors>saveenr</authors>
+    <owners>saveenr</owners>
+    <licenseUrl>http://viziblr.codeplex.com</licenseUrl>
+    <projectUrl>http://viziblr.codeplex.com</projectUrl>
+    <iconUrl>http://viziblr.codplex.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Convert colors between RGB, HSV, HSL, XYZ, and LAB.
+</description>
+    <releaseNotes>Fixup of member names</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>Color RGB XYZ HSV HSL LAB</tags>
+    <dependencies>
+    </dependencies>
+    <frameworkAssemblies>
+    </frameworkAssemblies>  
+  </metadata>
+  <files>
+    <file src="..\Colorspace\bin\debug\*.dll" target="lib\net40"/>
+  </files>
+</package>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorspaceTests", "ColorspaceTests.csproj", "{CBA13BE6-04A1-4CB2-AA85-BB024C9E5D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorspace", "..\Colorspace\Colorspace.csproj", "{61AE4276-825B-480D-A89E-39EB3C326CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA13BE6-04A1-4CB2-AA85-BB024C9E5D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA13BE6-04A1-4CB2-AA85-BB024C9E5D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA13BE6-04A1-4CB2-AA85-BB024C9E5D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA13BE6-04A1-4CB2-AA85-BB024C9E5D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AE4276-825B-480D-A89E-39EB3C326CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AE4276-825B-480D-A89E-39EB3C326CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AE4276-825B-480D-A89E-39EB3C326CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AE4276-825B-480D-A89E-39EB3C326CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
